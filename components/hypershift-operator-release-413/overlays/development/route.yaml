@@ -8,7 +8,7 @@ metadata:
     app.kubernetes.io/managed-by: kustomize
     app.kubernetes.io/name: hypershift-operator-release-413
     app.kubernetes.io/part-of: mce-23
-  name: hypershift-operator-releaqtsv
+  name: hypershift-operator-releav0km
 spec:
   port:
     targetPort: 9090
